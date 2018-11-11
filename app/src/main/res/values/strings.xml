@@ -1,7 +1,6 @@
 <resources>
     <string name="app_name">Gallery</string>
+    <string name="title_albums">Альбомы</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
 
-
-    <string name="action_settings">Settings</string>
-    <string name="show_gallery_text">Показать галлерею.</string>
 </resources>
